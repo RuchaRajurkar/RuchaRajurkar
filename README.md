@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @RuchaRajurkar
-- 👀 I’m interested in Web Development,Electronics,C Programming,SQL..
-- 🌱 I’m Pursuing Btech in Electronics and telecommunications Engineering 
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
